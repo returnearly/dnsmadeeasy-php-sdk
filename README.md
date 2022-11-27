@@ -14,7 +14,7 @@ More information about the API may be found in the [official API documentation](
 The easiest way to install and use this client library is using Composer. The following command will add the library to your application and install it from Packagist.
 
 ```bash
-composer require tiggee/dnsmadeeasy-client
+composer require returnearly/dnsmadeeasy
 ```
 
 ## Getting Started
