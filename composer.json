@@ -1,5 +1,5 @@
 {
-    "name": "tiggee/dnsmadeeasy-client",
+    "name": "returnearly/dnsmadeeasy",
     "description": "PHP SDK for the DNS Made Easy API",
     "type": "library",
     "require": {
